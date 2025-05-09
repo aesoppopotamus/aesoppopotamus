@@ -14,11 +14,7 @@ My name is Xavier and I am a self found Tech-Priest, Adept of the Omnissiah.
 - Scribing Lua runes for the Garry's Mod Omnissarium
 - Exploring the reaches of filaments and frameworks in 3D-printing, praise the Maker
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aesoppopotamus&show_icons=true&count_private=true)](https://github.com/aesoppopotamus)
-
 ---
-
-
 
 #### Litany of Connection
 - rapscallionpc@proton.me
